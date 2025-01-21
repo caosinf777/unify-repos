@@ -12,7 +12,7 @@ Una herramienta automatizada que unifica y organiza todos los archivos de un pro
 
 ## 🚀 Instalación
 ```bash
-git clone [URL-del-repositorio]
+git clone [[URL-del-repositorio]](https://github.com/caosinf777/unify-repos.git)
 cd github-project-unifier
 ```
 
