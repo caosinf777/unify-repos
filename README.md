@@ -23,12 +23,12 @@ cd github-project-unifier
 
 ## 📖 Uso
 ```python
-python unifier.py [ruta-del-proyecto]
+python unify_repo.py [ruta-del-proyecto]
 ```
 
 ## 🔍 Ejemplo
 ```python
-python unifier.py /ruta/a/mi/proyecto/github
+python unify_repo.py /ruta/a/mi/proyecto/github
 ```
 
 ## 📂 Estructura del Proyecto
