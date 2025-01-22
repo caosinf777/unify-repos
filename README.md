@@ -22,6 +22,7 @@ cd unify-repos
 - Permisos de lectura/escritura en el directorio de trabajo
 
 ## 📖 Uso
+<<<<<<< HEAD
 ```bash
  python unify_repo.py /ruta/del/proyecto
 ```
@@ -31,6 +32,15 @@ cd unify-repos
 unified_proyecto/
 ├── proyecto_unified.txt     # Archivo con todo el código unificado
 └── proyecto_structure.txt   # Estructura del proyecto en formato árbol
+=======
+```python
+python unify_repo.py [ruta-del-proyecto]
+```
+
+## 🔍 Ejemplo
+```python
+python unify_repo.py /ruta/a/mi/proyecto/github
+>>>>>>> aefe3cf45047b6b4a80e80c1f09d0b07d43ae7b2
 ```
 
 ## 📋 Tipos de archivos soportados
