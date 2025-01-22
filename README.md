@@ -1,4 +1,4 @@
-# 🔄 GitHub Project Unifier v1.0
+# 🔄 GitHub Project Unifier v2.0
 
 ## 📋 Descripción
 Una herramienta automatizada que unifica y organiza todos los archivos de un proyecto de GitHub en un único directorio, facilitando la gestión y visualización del código fuente completo. Excluye automáticamente archivos de dependencias, configuración y archivos binarios para mantener solo el código fuente relevante.
@@ -39,8 +39,8 @@ python unify_repo.py [ruta-del-proyecto]
 
 ## 🔍 Ejemplo
 ```python
-python unify_repo.py /ruta/a/mi/proyecto/github
->>>>>>> aefe3cf45047b6b4a80e80c1f09d0b07d43ae7b2
+python unify_repo.py /ruta/a/mi/proyecto/
+
 ```
 
 ## 📋 Tipos de archivos soportados
@@ -81,7 +81,7 @@ MIT License
 ## 👤 Autor
 Julio Cesar IA
 
-## 📝 Notas de la Versión 1.0
+## 📝 Notas de la Versión 2.0
 - Implementación inicial del unificador
 - Sistema de exclusión inteligente
 - Generación de estructura en árbol
